@@ -1,1 +1,12 @@
 hi this is my first git project
+
+
+fir st i cleared the identity commands like
+
+git init
+git config --global user.name
+git config --global user.mail
+
+then master branch 
+.git repository created
+
